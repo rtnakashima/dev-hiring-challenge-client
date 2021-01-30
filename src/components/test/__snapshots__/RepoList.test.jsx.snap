@@ -1,0 +1,2514 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`repo list renders accordingly 1`] = `
+<ul
+  className="sc-jSgupP hIeJPF"
+>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      ateliware/dev-hiring-challenge
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Ateliware hiring challenge for devs
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            9
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        <a>
+           
+          3 issues need help.
+           
+        </a>
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      kleberksms/ateliware-selecao
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            2
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          C#
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      Oglaf/AteliwareChallenge
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          C#
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      msuchy/AteliwareGitHubTest
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      List GitHub trending repositories of 5 languages
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          HTML
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      danilomartinssilva/ateliwareTest
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Teste para ateliware
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          JavaScript
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      DelmiroPaes/AteliwareCV
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dySoWR"
+          color="magenta"
+        />
+        <span>
+           
+          C++
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      ronaldobianco/Ateliware2020
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Trabalho desenvolvido  para a ateliware para demonstrar conhecimentos
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg iGaKDj"
+          color="red"
+        />
+        <span>
+           
+          Ruby
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      ronaldobianco/Ateliware
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Trabalho Ateliware
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg iGaKDj"
+          color="red"
+        />
+        <span>
+           
+          Ruby
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      marivaldosena/ateliware
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg lphlVo"
+          color="#3572A5"
+        />
+        <span>
+           
+          Python
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      EmilyBorato/teste
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      teste ateliware
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      DracoFC/AteliwareChallenge
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Repositório para construção do desafio da Ateliware.
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            1
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          ASP
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      thiagocanto/ateliwareGitIntegration
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Integration test
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg iGaKDj"
+          color="red"
+        />
+        <span>
+           
+          Ruby
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      BonatoMatheus/dev-hiring-challenge
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Desafio Ateliware
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          Dart
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      lucaskbr/ateliware-frontend
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          JavaScript
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        <a>
+           
+          5 issues need help.
+           
+        </a>
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      thalescampelo/AteliwareGitHub
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          HTML
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      jgnogara/TesteAteliware
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Teste para Ateliware
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          JavaScript
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      henrymazza/atelihub
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Implementation of Ateliware's challenge (at ateliware/dev-hiring-challenge)
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg iGaKDj"
+          color="red"
+        />
+        <span>
+           
+          Ruby
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        MIT License
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      markincm/jobs
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      work at ateliware :)
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      ateliware/dojo
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      dojos realizados na ateliware
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg iGaKDj"
+          color="red"
+        />
+        <span>
+           
+          Ruby
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      FelipeWielewski/ateliware-challenge
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          C#
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      rodneuson/ATELIWARE_TESTE
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          C#
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      anderson-bastos/RecruitingAteliware
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          JavaScript
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      keviinlouis/TesteAteliware
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          PHP
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      ronaldobianco/Ateliware-tuby
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Conhecimentos para vaga full-stack
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg iGaKDj"
+          color="red"
+        />
+        <span>
+           
+          Ruby
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      thalescampelo/MyAteliware
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      lucaskbr/ateliware-backend
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          TypeScript
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        <a>
+           
+          5 issues need help.
+           
+        </a>
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      smithjunior/ateliware-backend
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          JavaScript
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        <a>
+           
+          3 issues need help.
+           
+        </a>
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      smithjunior/ateliware-frontend
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      -
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          JavaScript
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        <a>
+           
+          7 issues need help.
+           
+        </a>
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      lucascvidal/ateliware-test
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Python and Flask app built to interact with GitHub API.
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg lphlVo"
+          color="#3572A5"
+        />
+        <span>
+           
+          Python
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+  <li
+    className="sc-bdfBwQ dipKme"
+  >
+    <a
+      href="#"
+    >
+       
+      RamonMengarda/TesteAteliware
+       
+    </a>
+    <div
+      className="sc-gsTCUz lbXrAV"
+    >
+       
+      Dev hiring challenge for developer position @ Ateliware. Check requisites here: https://github.com/ateliware/dev-hiring-challenge
+       
+    </div>
+    <div
+      className="sc-dlfnbm hHOXBQ"
+    >
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <a>
+          <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-star fa-w-18 "
+            data-icon="star"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            style={Object {}}
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z"
+              fill="currentColor"
+              style={Object {}}
+            />
+          </svg>
+          <span>
+             
+            0
+             
+          </span>
+        </a>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+        <span
+          className="sc-eCssSg dDtfTf"
+          color="black"
+        />
+        <span>
+           
+          C#
+           
+        </span>
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+         
+      </div>
+      <div
+        className="sc-hKgILt loPyMl"
+      >
+         
+        0
+         
+      </div>
+    </div>
+  </li>
+</ul>
+`;

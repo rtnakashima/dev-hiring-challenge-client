@@ -7,25 +7,45 @@ const StyledList = styled.ul`
     width: 600px;
 `;
 
+const emptyRepoListMsg = "Oops! Não há repositórios válidos."
+
 const RepoList = (props) => {
+
+    if (Object.keys(props.repos).length == 0)
+    {
+        return <p> { emptyRepoListMsg } </p>
+    }
+
+    const colorMap = {
+        "Python": "#3572A5",
+        "Ruby": "red",
+        "C": "gray",
+        "C++": "magenta",
+        "Javascript": "yellow"
+    }
+
+    const listItems = props.repos.map((repo, key) => {
+        let listItemProps = {
+            htmlUrl:         repo.html_url,
+            fullName:        repo.full_name,
+            description:     repo.description,
+            stargazersCount: repo.stargazers_count,
+            color:           colorMap[repo.language] || "black",
+            language:        repo.language,
+            licenseName:     repo.license?.name || "",
+            updatedAt:       repo.updated_a,
+            openIssuesCount: repo.open_issues_count
+        } 
+
+        return <RepoListItem key={key} { ...listItemProps } />
+    })
+
     return (
         <StyledList>
-            <RepoListItem
-                htmlURL={'https://github.com/travisjeffery/timecop'}
-                fullName={'travisjeffery/timecop'}
-                description={'A gem providing "time travel", "time freezing", and "time acceleration" capabilities'}
-                stargazersCount={5}
-                stargazersUrl={''}
-                color={'red'}
-                language={'Ruby'}
-                licenseName={'MIT license'}
-                updatedAt={"2013-01-05T17:58:47Z"}
-                openIssuesCount={18}
-                />
-            <RepoListItem url={'https://github.com/sonatype/nexus-book'} description={'Repository Management with Nexus'}/>
-            <RepoListItem url={'https://github.com/cheese10yun/spring-guide'} description={'Spring 실전 가이드'}/>
+            { listItems }
         </StyledList>
     )
 }
 
 export default RepoList
+export { emptyRepoListMsg }

@@ -43,7 +43,7 @@ const RepoListItem = (props) => {
             <StyledDescription> { props?.description || "-" } </StyledDescription>
             <MetaWrapper>
                 <MetaItem>
-                    <a href={ `${props.htmlURL}/stargazers` }>
+                    <a href={ props?.stargazersUrl }>
                         <FontAwesomeIcon icon={faStar} />
                         <span> { props?.stargazersCount || 0 } </span>
                     </a>
