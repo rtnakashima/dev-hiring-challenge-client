@@ -25,7 +25,7 @@ function App() {
 
     return (
         <Container>
-            <h1> Ateliware - Dev Hiring Challenge</h1>
+            <h1> Renan Nakashima - Dev Hiring Challenge</h1>
             <p> Este aplicativo busca e lista os principais repositórios em C, C++, Python, Javascript e Ruby existentes no GitHub. </p>
             <p> Para buscar os repositórios, clique no botão abaixo! </p>
             <hr/>
