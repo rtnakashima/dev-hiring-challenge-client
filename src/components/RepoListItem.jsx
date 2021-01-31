@@ -39,22 +39,22 @@ const Circle = styled.span`
 const RepoListItem = (props) => {
     return (
         <StyledListItem>
-            <a href={ props?.htmlURL || '#' }> { props?.fullName || '' } </a>
-            <StyledDescription> { props?.description || "-" } </StyledDescription>
+            <a href={ props.htmlURL }> { props.fullName } </a>
+            <StyledDescription> { props.description } </StyledDescription>
             <MetaWrapper>
                 <MetaItem>
-                    <a href={ props?.stargazersUrl }>
+                    <a href={ props.stargazersURL}>
                         <FontAwesomeIcon icon={faStar} />
-                        <span> { props?.stargazersCount || 0 } </span>
+                        <span> { props.stargazersCount } </span>
                     </a>
                 </MetaItem>
                 <MetaItem>
-                    <Circle color={ props?.color || 'white' }/>
-                    <span> { props?.language } </span>
+                    <Circle color={ props.color }/>
+                    <span> { props.language } </span>
                 </MetaItem>
-                <MetaItem> { props?.licenseName } </MetaItem>
-                <MetaItem> { props?.updatedAt } </MetaItem>
-                <MetaItem> { props?.openIssuesCount && <a> {`${props.openIssuesCount} issues need help.`} </a> } </MetaItem>
+                <MetaItem> { props.licenseName } </MetaItem>
+                <MetaItem> { props.updatedAt } </MetaItem>
+                <MetaItem> { props.openIssuesCount && <a> {`${props.openIssuesCount} issues need help.`} </a> } </MetaItem>
             </MetaWrapper>
         </StyledListItem>
     )

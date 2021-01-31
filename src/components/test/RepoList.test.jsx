@@ -6,14 +6,14 @@ import RepoList, { emptyRepoListMsg } from '../RepoList';
 const response = require('./fixtures/search-api-response.json')
 
 test ('repo list renders a message if no repo exists', () => {
-    render ( <RepoList repos={[]} />)
+    render ( <RepoList items={[]} />)
     expect(screen.queryByText(emptyRepoListMsg)).toBeInTheDocument()
     expect(screen.queryByText('RepoList')).toBeNull()
 })
 
 test ('repo list renders accordingly', () => {
     const repoListComponent = renderer.create(
-        <RepoList repos={response.items} />
+        <RepoList items={ response.items } />
     )
 
     let tree = repoListComponent.toJSON()

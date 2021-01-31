@@ -11,7 +11,7 @@ const emptyRepoListMsg = "Oops! Não há repositórios válidos."
 
 const RepoList = (props) => {
 
-    if (Object.keys(props.repos).length == 0)
+    if (props.items.length == 0)
     {
         return <p> { emptyRepoListMsg } </p>
     }
@@ -24,12 +24,13 @@ const RepoList = (props) => {
         "Javascript": "yellow"
     }
 
-    const listItems = props.repos.map((repo, key) => {
+    const listItems = props.items.map((repo, key) => {
         let listItemProps = {
-            htmlUrl:         repo.html_url,
+            htmlURL:         repo.html_url,
             fullName:        repo.full_name,
             description:     repo.description,
             stargazersCount: repo.stargazers_count,
+            stargazersURL: repo.stargazers_url,
             color:           colorMap[repo.language] || "black",
             language:        repo.language,
             licenseName:     repo.license?.name || "",
