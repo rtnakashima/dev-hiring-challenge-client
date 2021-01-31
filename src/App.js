@@ -19,12 +19,13 @@ const StyledLoadingOverlay = styled(LoadingOverlay)`
 `
 
 function App() {
-
     const [ repos, setRepos ] = useState({})
     const [ isLoading, setIsLoading ] = useState(false)
+    const [ alreadySearched, setAlreadySearched ] = useState(false)
 
     const fetchRepos = () => {
         setIsLoading(true)
+        setAlreadySearched(true)
 
         // it would be better if we could fetch directly from github from here..
         // this was designed this way so we could save the results to mysql later on..
@@ -45,7 +46,7 @@ function App() {
                 <p> Este aplicativo busca e lista os principais repositórios em C, C++, Python, Javascript e Ruby existentes no GitHub. </p>
                 <p> Para buscar os repositórios, clique no botão abaixo! </p>
                 <hr/>
-                <Button onClick={fetchRepos}> Buscar repositórios </Button>
+                <Button onClick={ fetchRepos } disabled={ alreadySearched }> Buscar repositórios </Button>
                 { repos.items && <RepoList items ={ repos.items } /> }
             </Container>
         </StyledLoadingOverlay>

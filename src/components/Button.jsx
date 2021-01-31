@@ -5,7 +5,7 @@ const Button = styled.button`
     min-width: 2em
     min-height: 1em;
     padding: 1em;
-    background-color: mediumseagreen;
+    background-color: ${ props => props.disabled ? "lightgray" : "mediumseagreen"};
     outline: 0;
     border: 0;
     border-radius: 5px;
