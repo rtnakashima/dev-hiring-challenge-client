@@ -18,7 +18,7 @@ function App() {
     const fetchRepos = () => {
         // it would be better if we could fetch directly from github from here..
         // this was designed this way so we could save the results to mysql later on..
-        fetch('http://localhost:4000/repos')
+        fetch('https://api-dhc.herokuapp.com/repos')
         .then(res => res.json())
         .then(json => setRepos(json))
     }
